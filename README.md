@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 🤝 One of my favorite projects is [IOT Anti-Theft Flooring System)](https://github.com/sameer67866/IOT-Anti-Theft-flooring-system) and [Puzzle Game (One Piece)](https://sameer67866.github.io/Project2_OnePiecePuzzle/fifteen.html)
+- 🤝 One of my favorite projects is [IOT Anti-Theft Flooring System](https://github.com/sameer67866/IOT-Anti-Theft-flooring-system) and [Puzzle Game (One Piece)](https://sameer67866.github.io/Project2_OnePiecePuzzle/fifteen.html)
 
 - 💬 Ask me about **Java, Python, JavaScript**
 
