@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer67866&label=Profile%20views&color=0e75b6&style=flat" alt="sameer67866" /> </p>
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently learning **AWS**
 
-- 🤝 One of my favorite projects is [Puzzle Game (One Piece)](https://sameer67866.github.io/Project2_OnePiecePuzzle/fifteen.html)
+- 🤝 One of my favorite projects is [IOT Anti-Theft Flooring System)](https://github.com/sameer67866/IOT-Anti-Theft-flooring-system) and [Puzzle Game (One Piece)](https://sameer67866.github.io/Project2_OnePiecePuzzle/fifteen.html)
 
-- 💬 Ask me about **Java, JavaScript, Python**
+- 💬 Ask me about **Java, Python, JavaScript**
 
 - 📫 How to reach me **Sameerm2019@gmail.com**
 
