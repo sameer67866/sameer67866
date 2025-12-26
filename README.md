@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Sameer</h1>
-<h3 align="center">A passionate developer and Product manager</h3>
+<h3 align="center">A passionate developer and Project manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer67866&label=Profile%20views&color=0e75b6&style=flat" alt="sameer67866" /> </p>
 
-- 🌱 I’m currently learning **Microsoft Dynamics**
+- 🌱 I’m currently completing **CAPM** BY PMI
 
 - 🤝 One of my favorite projects is [IOT Anti-Theft Flooring System](https://github.com/sameer67866/IOT-Anti-Theft-flooring-system) and [Puzzle Game (One Piece)](https://sameer67866.github.io/Project2_OnePiecePuzzle/fifteen.html)
 
